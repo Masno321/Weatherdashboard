@@ -1,0 +1,25 @@
+.jumbotron {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.search {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#search-results {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.current-forcast {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
